@@ -117,7 +117,7 @@ nav .social-media a {
 .banner-detail h1 {
 	margin-bottom: 30px;
 	font-family: Poppins, sans-serif;
-	font-size: 140px;
+	font-size: 130px;
 	color: white;
 	font-weight: bolder;
 	line-height: 170px;
@@ -335,7 +335,7 @@ nav .social-media a {
 
   /*******FOOTER Section FOOTER Section********/
 .footer-section {
-	background-color: #fccc5c;
+	background-color: #f3cb6e;
 	background-repeat: no-repeat;
 	padding: 100px 0px 0px 0px;
 	font-family :'Raleway';
@@ -352,7 +352,7 @@ nav .social-media a {
 	font-family: Norican, sans-serif;
 }
 .border-bottoms {
-	background: #fff;
+	background: #e76a6a;
 	height: 2px;
 	width: 157px;
 	position: absolute;
@@ -369,7 +369,7 @@ nav .social-media a {
 }
 .footer-menu li a {
 	text-decoration: none;
-	border-right: 1px solid lightgrey;
+	border-right: 1px solid rgb(247, 238, 238);
 	padding: 2px 20px;
 	color: #111;
 }
@@ -386,7 +386,7 @@ nav .social-media a {
 }
 /*******COPYRIGHT Section COPYRIGHT  Section*********/
 .copyright {
-	border-top: 1px solid lightgrey;
+	border-top: 1px solid rgb(168, 167, 167);
 	margin: 0px;
 	padding: 0px;
 	margin-top: 50px;
@@ -395,6 +395,7 @@ nav .social-media a {
 }
 .copyright p {
 	margin-top: 10px;
+	color:#e62626
 }
 .copyright ul {
 	list-style: none;
@@ -408,7 +409,7 @@ nav .social-media a {
 	border-right: 1px solid lightgrey;
 	padding: 0px 10px;
 	text-decoration: none;
-	color: #fff;
+	color: #e62626;
 }
 .copyright ul li:last-child a {
 	border-right: none;
