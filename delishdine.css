@@ -62,7 +62,7 @@ a {
 	justify-content: left;
 }
 .fixed-top {
-	background: #b80818;
+	background:#b80818;
 };
 
 nav .social-media a {
@@ -226,13 +226,14 @@ nav .social-media a {
 	margin-bottom: 30px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #f7f1e8;
+	background-color: #ffffff;
 	border: 1px dotted #ffda86;
 	border: 1px dashed #ffda86;
 	
 }
 .category-list img {
-	width: 50%;
+	width: 60%;
+
 }
 .category-list h2 {
 	font-weight: 500;
